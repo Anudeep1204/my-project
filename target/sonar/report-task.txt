@@ -1,0 +1,6 @@
+projectKey=com.in28minutes.springboot:spring-boot-rest-services-all-examples-for-springboottutorial.com
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=com.in28minutes.springboot%3Aspring-boot-rest-services-all-examples-for-springboottutorial.com
+ceTaskId=AWlHXqpZeVZZaTIj6atn
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWlHXqpZeVZZaTIj6atn
